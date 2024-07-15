@@ -1,0 +1,19 @@
+DRC Rules Export File for PCB: D:\Work\Project\Device\2Hire\2HE2E_Tester\SYS_Main\Hardware\2HE2e_Tester\2HE2E_Tester.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing 0.3mm|Scope=Board|Minimum=11.81
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing 0.1mm|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing 0.15mm|Scope=Board|Minimum=5.91
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing 0.2mm|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width 4mils|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width 8mils|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width 6mils|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width 0.2mm|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Track Clearance-10mils|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Track Clearance-8mils|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Track Clearance-4mils|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Track Clearance-6mils|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Track Clearance-0.2mm|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Polygon Clearance-20mils_GND_P|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Polygon Clearance-12mils|Scope=Board|Minimum=12.00
+RuleKind=Clearance|RuleName=Polygon Clearance-0.2mm|Scope=Board|Minimum=7.87

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [2HE2E_Tester.PcbDoc]
+   Generated File[2HE2E_Tester-Plated.TXT]
+   Generated File[2HE2E_Tester-NonPlated.TXT]
+   Generated File[2HE2E_Tester.LDP]
+   Generated File[2HE2E_Tester.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:41:02 On 15/07/2024

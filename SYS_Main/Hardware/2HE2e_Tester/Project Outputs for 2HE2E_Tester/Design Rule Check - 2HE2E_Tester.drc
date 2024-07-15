@@ -1,0 +1,129 @@
+Protel Design System Design Rule Check
+PCB File : D:\Work\Project\Device\2Hire\2HE2E_Tester\SYS_Main\Hardware\2HE2e_Tester\2HE2E_Tester.PcbDoc
+Date     : 15/07/2024
+Time     : 17:30:13
+
+Processing Rule : Clearance Constraint (Gap=4mil) (Disabled)(IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (Disabled)(IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (Disabled)(IsTrack),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=12mil) ((InPolygon) And Not InNet('GND_P')),((IsPad OR IsTrack OR IsVia OR IsArc OR IsCopperRegion  OR IsBoardCutoutRegion))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (Disabled)((InPolygon) And Not InNet('GND_P')),((IsPad OR IsTrack OR IsVia OR IsArc OR IsCopperRegion OR IsBoardCutoutRegion))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (Disabled)((InPolygon) And (InNet('GND_P'))),((IsPad OR IsTrack OR IsVia OR IsArc OR IsCopperRegion  OR IsBoardCutoutRegion))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7.874mil) (Max=100mil) (Preferred=10mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=10mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=1mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Plane Constraint (Distance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=80%) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=150%) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Allowed) (Ignore First Corner = Allowed)
+Rule Violations :0
+
+Processing Rule : SMD Entry (Side = Allowed) (Corner = Allowed) (Any Angle = Not Allowed) (Ignore First Corner = Allowed)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=15mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=11.811mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7.874mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=3.937mil) (Max=314.961mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=314.961mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=314.961mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (Disabled)(OnLayer('Top Layer') AND OnLayer('Bottom Layer'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (OnLayer('Top Layer') AND OnLayer('Bottom Layer'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3937.008mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

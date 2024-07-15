@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Work\Project\Device\2Hire\2HE2E_Tester\SYS_Main\Hardware\2HE2e_Tester\2HE2E_Tester.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=2he2e_tester-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=2he2e_tester-nonplated.txt|DrillLayers=gtl,gbl
